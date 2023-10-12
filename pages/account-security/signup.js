@@ -106,7 +106,7 @@ const SignUp = () => {
                                 <p className="text-zinc-800 text-center">
                                     Already have an account? 
                                     <Link href="/account-security/login">
-                                        <a className="font-semibold text-blue-700 hover:underline"> Log In </a>
+                                        <span className="font-semibold text-blue-700 hover:underline"> Log In </span>
                                     </Link>
                                 </p>
                             </div>
@@ -223,7 +223,7 @@ const SignUp = () => {
                                 <p className="text-zinc-800 text-center">
                                     Already have an account? 
                                     <Link href="/account-security/login">
-                                        <a className="font-semibold text-blue-700 hover:underline"> Log In </a>
+                                        <span className="font-semibold text-blue-700 hover:underline"> Log In </span>
                                     </Link>
                                 </p>
                             </div>
@@ -340,7 +340,7 @@ const SignUp = () => {
                                 <p className="text-zinc-800 text-center">
                                     Already have an account? 
                                     <Link href="/account-security/login">
-                                        <a className="font-semibold text-blue-700 hover:underline"> Log In </a>
+                                        <span className="font-semibold text-blue-700 hover:underline"> Log In </span>
                                     </Link>
                                 </p>
                             </div>

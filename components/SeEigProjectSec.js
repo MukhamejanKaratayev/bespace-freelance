@@ -18,10 +18,10 @@ const SeEigProjectSec = (props) => {
                                         <h4 className="text-zinc-800 font-semibold">
                                             {curVal.des}
                                         </h4>
-                                        <a className="text-600 text-zinc-600 hover:underline">
+                                        <span className="text-600 text-zinc-600 hover:underline">
                                             {curVal.linkText}
                                             <HiArrowSmRight className="inline ml-1"/>
-                                        </a>
+                                        </span>
                                     </div>
                                 </div>
                             </Link>

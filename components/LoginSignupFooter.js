@@ -7,7 +7,7 @@ const LoginSignupFooter = () => {
                 <p className="text-center font-semibold text-zinc-800 text-sm">
                     &copy; 2015 - 2022 Brenda® Global Inc. 
                     <Link href="#"> 
-                        <a className="font-bold text-zinc-700 hover:underline"> Privacy Policy </a>
+                        <span className="font-bold text-zinc-700 hover:underline"> Privacy Policy </span>
                     </Link>
                 </p>
             </div>

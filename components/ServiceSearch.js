@@ -44,7 +44,7 @@ const ServiceSearch = (props) => {
                         {props.des}
                     </p>
                     <Link href={props.link}>
-                        <a className="flex items-center sm:text-xl text-lg font-semibold text-sky-700 transition cursor-pointer hover:underline"> {props.linkText} <FaCaretRight className="mt-1"/> </a>
+                        <span className="flex items-center sm:text-xl text-lg font-semibold text-sky-700 transition cursor-pointer hover:underline"> {props.linkText} <FaCaretRight className="mt-1"/> </span>
                     </Link>
                 </div>
             </div>

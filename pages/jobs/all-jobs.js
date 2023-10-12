@@ -242,9 +242,9 @@ const AllJobs = () => {
 
                                     <div className="mt-2">
                                         <Link href="#">
-                                            <a className="font-semibold text-zinc-800 hover:underline hover:text-[#525554fd] cursor-pointer">
+                                            <span className="font-semibold text-zinc-800 hover:underline hover:text-[#525554fd] cursor-pointer">
                                                 Advanced search
-                                            </a>
+                                            </span>
                                         </Link>
                                     </div>
                                 </div>
@@ -271,9 +271,9 @@ const AllJobs = () => {
                             <div className="py-7 sm:px-7 px-1.5  border-b border-gray-300 space-y-5">
                                 <div className="flex flex-col space-y-3">
                                     <Link href="#">
-                                        <a className="font-semibold text-zinc-800 hover:underline hover:text-blue-900 cursor-pointer">
+                                        <span className="font-semibold text-zinc-800 hover:underline hover:text-blue-900 cursor-pointer">
                                             Images for interior design brand
-                                        </a>
+                                        </span>
                                     </Link>
 
                                     <small className="text-zinc-500 space-x-1 text-sm">
@@ -304,9 +304,9 @@ const AllJobs = () => {
                             <div className="py-7 sm:px-7 px-1.5 border-b border-gray-300 space-y-5">
                                 <div className="flex flex-col space-y-3">
                                     <Link href="#">
-                                        <a className="font-semibold text-zinc-800 hover:underline hover:text-blue-900 cursor-pointer">
+                                        <span className="font-semibold text-zinc-800 hover:underline hover:text-blue-900 cursor-pointer">
                                             Find leads of small businesses using Shopify located in the Ontario area
-                                        </a>
+                                        </span>
                                     </Link>
 
                                     <small className="text-zinc-500 space-x-1 text-sm">
@@ -343,9 +343,9 @@ const AllJobs = () => {
                             <div className="py-7 sm:px-7 px-1.5 border-b border-gray-300 space-y-5">
                                 <div className="flex flex-col space-y-3">
                                    <Link href="#">
-                                        <a className="font-semibold text-zinc-800 hover:underline hover:text-blue-900 cursor-pointer">
+                                        <span className="font-semibold text-zinc-800 hover:underline hover:text-blue-900 cursor-pointer">
                                             Need a Unity level designer to work over existing world & create new spaces
-                                        </a>
+                                        </span>
                                    </Link>
 
                                     <small className="text-zinc-500 space-x-1 text-sm">
@@ -379,9 +379,9 @@ const AllJobs = () => {
                             <div className="py-7 sm:px-7 px-1.5 border-b border-gray-300 space-y-5">
                                 <div className="flex flex-col space-y-3">
                                     <Link href="#">
-                                        <a className="font-semibold text-zinc-800 hover:underline hover:text-blue-900 cursor-pointer">
+                                        <span className="font-semibold text-zinc-800 hover:underline hover:text-blue-900 cursor-pointer">
                                             Download Instagram post
-                                        </a>
+                                        </span>
                                     </Link>
 
                                     <small className="text-zinc-500 space-x-1 text-sm">
@@ -418,9 +418,9 @@ const AllJobs = () => {
                             <div className="py-7 sm:px-7 px-1.5 border-b border-gray-300 space-y-5">
                                 <div className="flex flex-col space-y-3">
                                     <Link href="#">
-                                        <a className="font-semibold text-zinc-800 hover:underline hover:text-blue-900 cursor-pointer">
+                                        <span className="font-semibold text-zinc-800 hover:underline hover:text-blue-900 cursor-pointer">
                                             Creative Entry-Level Copy Proofreading
-                                        </a>
+                                        </span>
                                     </Link>
 
                                     <small className="text-zinc-500 space-x-1 text-sm">
@@ -457,9 +457,9 @@ const AllJobs = () => {
                             <div className="py-7 sm:px-7 px-1.5 border-b border-gray-300 space-y-5">
                                 <div className="flex flex-col space-y-3">
                                     <Link href="#">
-                                        <a className="font-semibold text-zinc-800 hover:underline hover:text-blue-900 cursor-pointer">
+                                        <span className="font-semibold text-zinc-800 hover:underline hover:text-blue-900 cursor-pointer">
                                             Embedded Electronics System Design, Programming, PCB Design
-                                        </a>
+                                        </span>
                                     </Link>
 
                                     <small className="text-zinc-500 space-x-1 text-sm">
@@ -496,9 +496,9 @@ const AllJobs = () => {
                             <div className="py-7 sm:px-7 px-1.5 border-b border-gray-300 space-y-5">
                                 <div className="flex flex-col space-y-3">
                                     <Link href="#">
-                                        <a className="font-semibold text-zinc-800 hover:underline hover:text-blue-900 cursor-pointer">
+                                        <span className="font-semibold text-zinc-800 hover:underline hover:text-blue-900 cursor-pointer">
                                             Do not apply 220828171661709017352 (JAP) - submitted by Upwork QA EHM
-                                        </a>
+                                        </span>
                                     </Link>
 
                                     <small className="text-zinc-500 space-x-1 text-sm">
@@ -535,9 +535,9 @@ const AllJobs = () => {
                             <div className="py-7 sm:px-7 px-1.5 border-b border-gray-300 space-y-5">
                                 <div className="flex flex-col space-y-3">
                                     <Link href="#">
-                                        <a className="font-semibold text-zinc-800 hover:underline hover:text-blue-900 cursor-pointer">
+                                        <span className="font-semibold text-zinc-800 hover:underline hover:text-blue-900 cursor-pointer">
                                             Find leads of small businesses using Shopify located in the Ontario area
-                                        </a>
+                                        </span>
                                     </Link>
 
                                     <small className="text-zinc-500 space-x-1 text-sm">
@@ -574,9 +574,9 @@ const AllJobs = () => {
                             <div className="py-7 sm:px-7 px-1.5 border-b border-gray-300 space-y-5">
                                 <div className="flex flex-col space-y-3">
                                     <Link href="#">
-                                        <a className="font-semibold text-zinc-800 hover:underline hover:text-blue-900 cursor-pointer">
+                                        <span className="font-semibold text-zinc-800 hover:underline hover:text-blue-900 cursor-pointer">
                                             Find leads of small businesses using Shopify located in the Ontario area
-                                        </a>
+                                        </span>
                                     </Link>
 
                                     <small className="text-zinc-500 space-x-1 text-sm">
@@ -613,9 +613,9 @@ const AllJobs = () => {
                             <div className="py-7 sm:px-7 px-1.5 space-y-5">
                                 <div className="flex flex-col space-y-3">
                                     <Link href="#">
-                                        <a className="font-semibold text-zinc-800 hover:underline hover:text-blue-900 cursor-pointer">
+                                        <span className="font-semibold text-zinc-800 hover:underline hover:text-blue-900 cursor-pointer">
                                             Project manager in a growing digital marketing agency
-                                        </a>
+                                        </span>
                                     </Link>
 
                                     <small className="text-zinc-500 space-x-1 text-sm">

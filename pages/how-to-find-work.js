@@ -466,9 +466,9 @@ const HowToFindWork = () => {
 
                                <div className="mt-3">
                                     <Link href="#">
-                                        <a className="font-semibold underline text-blue-700"> 
+                                        <span className="font-semibold underline text-blue-700"> 
                                             Learn more about service fees. 
-                                        </a>
+                                        </span>
                                     </Link>
                                </div>
                             </motion.div>

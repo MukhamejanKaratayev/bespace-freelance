@@ -727,9 +727,9 @@ const Navbar = () => {
 
                         <li>
                             <Link href={"/enterprise"}>
-                                <a className="text-zinc-700 text-[1.03rem] font-semibold hover:text-cyan-700"> 
+                                <span className="text-zinc-700 text-[1.03rem] font-semibold hover:text-cyan-700"> 
                                     Enterprise 
-                                </a>
+                                </span>
                             </Link>
                         </li>
                     </ul>

@@ -576,22 +576,22 @@ const Services = () => {
                                 <span className="text-zinc-800 font-semibold"> Populer: </span>
 
                                <Link href="#">
-                                    <a className="populer-search">
+                                    <span className="populer-search">
                                         <FaSearch className="mr-2 text-[10px]"/>
                                         Logo Design
-                                    </a>
+                                    </span>
                                </Link>
                                 <Link href="#">
-                                    <a className="populer-search">
+                                    <span className="populer-search">
                                         <FaSearch className="mr-2 text-[10px]"/>
                                         Articles & Blog Post
-                                    </a>
+                                    </span>
                                 </Link>
                                 <Link href="#">
-                                    <a className="populer-search">
+                                    <span className="populer-search">
                                         <FaSearch className="mr-2 text-[10px]"/>
                                         Wordpress
-                                    </a>
+                                    </span>
                                 </Link>
                             </div>
                         </div>
@@ -849,10 +849,10 @@ const Services = () => {
                             Scale your business with social media solutions 
                         </h2>
                         <Link href="#">
-                            <a className="text-lg font-semibold text-blue-500 cursor-pointer transition hover:underline mt-5">
+                            <span className="text-lg font-semibold text-blue-500 cursor-pointer transition hover:underline mt-5">
                                 Show all
                                 <HiArrowSmRight className="inline ml-1"/>
-                            </a>
+                            </span>
                         </Link>
                     </div>
                     <motion.div className="flex md:flex-row flex-col 2xl:space-x-14 xl:space-x-10 lg:space-x-7 md:space-x-6 space-x-0 md:space-y-0 space-y-4 lg:mt-8 mt-5"
@@ -926,10 +926,10 @@ const Services = () => {
                             Website solutions that bring in more customers 
                         </h2>
                         <Link href="#">
-                            <a className="text-lg font-semibold text-blue-500 cursor-pointer transition hover:underline mt-5">
+                            <span className="text-lg font-semibold text-blue-500 cursor-pointer transition hover:underline mt-5">
                                 Show all
                                 <HiArrowSmRight className="inline ml-1"/>
-                            </a>
+                            </span>
                         </Link>
                     </div>
                     <motion.div className="flex md:flex-row flex-col 2xl:space-x-14 xl:space-x-10 lg:space-x-7 md:space-x-6 space-x-0 md:space-y-0 space-y-4 lg:mt-8 mt-5"
@@ -1018,10 +1018,10 @@ const Services = () => {
                             Get inspired with projects like these 
                         </h2>
                         <Link href="#">
-                            <a className="text-lg font-semibold text-blue-500 cursor-pointer transition hover:underline mt-5">
+                            <span className="text-lg font-semibold text-blue-500 cursor-pointer transition hover:underline mt-5">
                                 Show all
                                 <HiArrowSmRight className="inline ml-1"/>
-                            </a>
+                            </span>
                         </Link>
                     </div>
                     <div className="grid xl:grid-cols-4 lg:grid-cols-3 md:grid-cols-2 grid-cols-1 2xl:gap-x-14 xl:gap-x-10 lg:gap-x-8 md:gap-x-10 gap-x-0 xl:gap-y-10 md:gap-y-8 sm:gap-y-5 gap-y-4 lg:mt-8 mt-5">

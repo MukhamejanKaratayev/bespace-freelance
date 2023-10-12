@@ -55,9 +55,9 @@ const HowToHire = () => {
                                 <span className="font-semibold bg-transparent text-zinc-800">
                                     Looking to get hired? 
                                     <Link href="/how-to-hire">
-                                        <a className="text-sky-700 hover:text-sky-800 underline ml-1"> 
+                                        <span className="text-sky-700 hover:text-sky-800 underline ml-1"> 
                                             Sign Up here 
-                                        </a>
+                                        </span>
                                     </Link>
                                 </span>
                             </div>

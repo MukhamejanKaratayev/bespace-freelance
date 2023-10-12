@@ -51,58 +51,58 @@ const TalentMarketplace = () => {
                             <div className="flex flex-col space-y-3 xl:mt-10 mt-7">
                                 <div className="flex sm:flex-row flex-col sm:space-x-3 sm:space-y-0 space-y-3">
                                     <Link href="#">
-                                        <a
+                                        <span
                                             className="flex items-center font-semibold bg-teal-100 rounded-full px-3 py-1 text-zinc-900 cursor-pointer transition hover:underline"
                                         >
                                             Development & It
                                             <FiArrowRight className="ml-3"/>
-                                        </a>
+                                        </span>
                                     </Link>
                                     <Link href="#">
-                                        <a
+                                        <span
                                             className="flex items-center font-semibold bg-teal-100 rounded-full px-3 py-1 text-zinc-900 cursor-pointer transition hover:underline"
                                         >
                                             Design & Creative
                                             <FiArrowRight className="ml-3"/>
-                                        </a>
+                                        </span>
                                     </Link>
                                 </div>
 
                                 <div className="flex sm:flex-row flex-col sm:space-x-3 sm:space-y-0 space-y-3">
                                     <Link href="#">
-                                        <a
+                                        <span
                                             className="flex items-center font-semibold bg-teal-100 rounded-full px-3 py-1 text-zinc-900 cursor-pointer transition hover:underline"
                                         >
                                             Finance & Accounting
                                             <FiArrowRight className="ml-3"/>
-                                        </a>
+                                        </span>
                                     </Link>
                                     <Link href="#">
-                                        <a
+                                        <span
                                             className="flex items-center font-semibold bg-teal-100 rounded-full px-3 py-1 text-zinc-900 cursor-pointer transition hover:underline"
                                         >
                                             Sales & Marketing
                                             <FiArrowRight className="ml-3"/>
-                                        </a>
+                                        </span>
                                     </Link>
                                 </div>
 
                                 <div className="flex sm:flex-row flex-col sm:space-x-3 sm:space-y-0 space-y-3">
                                     <Link href="#">
-                                        <a
+                                        <span
                                             className="flex items-center font-semibold bg-teal-100 rounded-full px-3 py-1 text-zinc-900 cursor-pointer transition hover:underline"
                                         >
                                             Writing & Translation
                                             <FiArrowRight className="ml-3"/>
-                                        </a>
+                                        </span>
                                     </Link>
                                     <Link href="#">
-                                        <a
+                                        <span
                                             className="flex items-center font-semibold bg-teal-100 rounded-full px-3 py-1 text-zinc-900 cursor-pointer transition hover:underline"
                                         >
                                             Admin and Custom Support
                                             <FiArrowRight className="ml-3"/>
-                                        </a>
+                                        </span>
                                     </Link>
                                 </div>
                             </div>
@@ -207,12 +207,12 @@ const TalentMarketplace = () => {
                                     <h5 className="text-zinc-700 2xl:text-2xl sm:text-xl text-[17px] font-semibold">
                                         How Flexible Talent Helps a Fast - Placed Company Improve Productivity
                                     </h5>
-                                    <a
+                                    <span
                                         className="flex items-center py-3 lg:text-xl text-md underline text-cyan-700"
                                     >
                                         Read Articale
                                         <FiArrowRight className="ml-3"/>
-                                    </a>
+                                    </span>
                                 </div>
                             </Link>
 
@@ -222,12 +222,12 @@ const TalentMarketplace = () => {
                                     <h5 className="text-zinc-700 2xl:text-2xl sm:text-xl text-[17px] font-semibold">
                                         Flexera Engineers a Way to Deliver Work 2x Faster and Keeps Security at the Forefront
                                     </h5>
-                                    <a
+                                    <span
                                         className="flex items-center py-3 lg:text-xl text-md underline text-cyan-700"
                                     >
                                         Read Articale
                                         <FiArrowRight className="ml-3"/>
-                                    </a>
+                                    </span>
                                 </div>
                             </Link>
 
@@ -237,12 +237,12 @@ const TalentMarketplace = () => {
                                     <h5 className="text-zinc-700 2xl:text-2xl sm:text-xl text-[17px] font-semibold">
                                         Singularity University Shows What Working Faster (and Doing it Right) Looks Like
                                     </h5>
-                                    <a
+                                    <span
                                         className="flex items-center py-3 lg:text-xl text-md underline text-cyan-700"
                                     >
                                         Read Articale
                                         <FiArrowRight className="ml-3"/>
-                                    </a>
+                                    </span>
                                 </div>
                             </Link>
                         </motion.div>
