@@ -395,7 +395,7 @@ const TalentMarketplace = () => {
                                         src="/images/showes.png"
                                         width={320}
                                         height={180}
-                                        layout="responsive"
+                                        // layout="responsive"
                                         alt="showes-image"
                                         className="rounded-t-lg"
                                     />

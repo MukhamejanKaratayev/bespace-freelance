@@ -1,6 +1,6 @@
 import HeadTag from "../../components/HeadTag";
 import Navbar from "../../components/Navbar/Navbar";
-import Image from "next/dist/client/image";
+import Image from "next/image";
 import { FaChevronRight, FaChevronLeft } from "react-icons/fa";
 import { useRef, useState } from "react";
 import Link from "next/link";

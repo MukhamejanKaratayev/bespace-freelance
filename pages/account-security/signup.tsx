@@ -30,7 +30,7 @@ const SignUp = () => {
         useBtnText("Apply as a Freelancer");
     }
 
-    const HandleForm = (e) => {
+    const HandleForm = (e: { preventDefault: () => void; }) => {
         e.preventDefault();
     }
 

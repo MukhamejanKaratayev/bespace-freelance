@@ -1,6 +1,6 @@
 import { FaStar } from "react-icons/fa";
 import { FcApproval } from "react-icons/fc";
-import Image from "next/dist/client/image";
+import Image from "next/image";
 import { useRouter } from "next/router";
 import { motion } from "framer-motion";
 

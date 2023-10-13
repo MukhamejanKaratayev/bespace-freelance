@@ -2,6 +2,7 @@ import '../styles/globals.css'
 import { useRouter } from "next/router"
 import { useState, useEffect } from 'react'
 import { ThreeDots } from 'react-loader-spinner'
+import type { AppProps } from "next/app";
 
 // =============== Router path chanage to loading ==========================
 function RouteLoading() {
@@ -9,8 +10,8 @@ function RouteLoading() {
   const [routeloading, setRouteLoading] = useState(false);
   
   useEffect(() => {
-    const handleStart = (url) => (url !== router.asPath) && setRouteLoading(true);
-    const handleComplete = (url) => (url === router.asPath) && setTimeout(() => {setRouteLoading(false)}, 100);
+    const handleStart = (url: string) => (url !== router.asPath) && setRouteLoading(true);
+    const handleComplete = (url: string) => (url === router.asPath) && setTimeout(() => {setRouteLoading(false)}, 100);
     
     router.events.on('routeChangeStart', handleStart)
     router.events.on('routeChangeComplete', handleComplete)
@@ -39,8 +40,13 @@ function RouteLoading() {
   )
 }
 
-function MyApp({ Component, pageProps }) {
-  return (<><RouteLoading/> <Component {...pageProps} /></>)
+function MyApp({ Component, pageProps }:AppProps) {
+  return (
+  <>
+  {/* <RouteLoading/>  */}
+  <Component {...pageProps} />
+  </>
+  )
 }
 
 export default MyApp

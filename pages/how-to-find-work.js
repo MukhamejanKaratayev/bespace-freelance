@@ -1,6 +1,6 @@
 import HeadTag from "../components/HeadTag";
 import Navbar from "../components/Navbar/Navbar";
-import Image from "next/dist/client/image";
+import Image from "next/image";
 import { FaStar } from "react-icons/fa";
 import { HiArrowRight } from "react-icons/hi";
 import TrustedCom from "../components/TrustedCom";

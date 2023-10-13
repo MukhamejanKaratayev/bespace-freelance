@@ -12,7 +12,7 @@ const Login = () => {
     const router = useRouter();
 
     // ================= Function Handle ===================
-    const HandleForm = (e) => {
+    const HandleForm = (e: { preventDefault: () => void; }) => {
         e.preventDefault();
     }
 

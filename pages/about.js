@@ -1,6 +1,6 @@
 import HeadTag from "../components/HeadTag";
 import Navbar from "../components/Navbar/Navbar";
-import Image from "next/dist/client/image";
+import Image from "next/image";
 import Footer from "../components/Footer";
 import { useRouter } from "next/router";
 
